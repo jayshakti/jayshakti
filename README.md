@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayshakti
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Linux Device Drivers.
+- 🌱 I’m currently learning cryptography.
 - 📫 How to reach me : jshakti528@gmail.com
 
 <!---
